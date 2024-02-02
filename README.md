@@ -21,7 +21,7 @@ Download and install OpenCV from [OpenCV's official site](https://opencv.org/rel
 ### Building the Application
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/videostreamviewer.git
+   git clone https://github.com/varnicm/cpp-opencv-vysor
    cd videostreamviewer
    ```
 
